@@ -29,7 +29,7 @@
 
 ### **Opción 1: Ejecutar con Python**
 
-git clone \[https://github.com/TU\_USUARIO/TU\_REPO.git\](https://github.com/TU\_USUARIO/TU\_REPO.git)  
+git clone \[https://github.com/Lil-Carpi/spotify-to-mp3.git](https://github.com/Lil-Carpi/spotify-to-mp3.git)  
 cd TU\_REPO  
 pip install \-r requirements.txt  
 python main.py
