@@ -2,7 +2,7 @@
 
 ![MP3Downloader](screenshots/screenshot.png)
 
-**MP3 Downloader** es una aplicación de escritorio para Windows y Linux que te permite descargar playlists de Spotify como archivos MP3, con portada y metadatos, usando YouTube como fuente de audio.
+**MP3 Downloader** es una aplicación de escritorio para Windows y Linux que te permite descargar playlists como archivos MP3, con portada y metadatos, usando YouTube como fuente de audio.
 
 ### **Nota: Requiere tener claves en [developers](https://developer.spotify.com/) para descargar las canciones.**
 
@@ -33,7 +33,7 @@
 
 ```bash
 git clone https://github.com/Lil-Carpi/MP3Downloader.git
-cd spotify-to-mp3
+cd MP3Downloader
 pip install -r requirements.txt
 python main.py
 ```
@@ -41,7 +41,7 @@ python main.py
 ### **Opción 2: Ejecutable (.exe)**
 
 1. Ve a la carpeta `/dist` después de haber compilado con PyInstaller.  
-2. Ejecuta `SpotifyDownloader.exe`.
+2. Ejecuta `Downloader.exe`.
 
 ## **Uso**
 
@@ -52,7 +52,7 @@ python main.py
 
 ## **Estructura de Archivos**
 
-SpotifyDownloader/  
+Downloader/  
 ├─ main.py          \# Archivo principal  
 ├─ dist/            \# Ejecutables compilados  
 ├─ LICENSE          \# Licencia GPL 2.1  
