@@ -31,7 +31,7 @@
 
 ### **Opción 1: Ejecutar con Python**
 
-git clone \https://github.com/Lil-Carpi/spotify-to-mp3.git 
+git clone \ https://github.com/Lil-Carpi/spotify-to-mp3.git 
 cd spotify-to-mp3 
 pip install \-r requirements.txt  
 python main.py
